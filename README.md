@@ -1,5 +1,6 @@
 SS
-![Uploading image.png…]()
+![image](https://github.com/Bitgamb/restaurant/assets/104263923/3b37d92f-ea9e-4de3-ac4a-2b9b275ed243)
+
 
 ![image](https://github.com/Bitgamb/restaurant/assets/104263923/5c5ef2e2-f63f-4d22-ac67-e0192a0c0741)
 ![image](https://github.com/Bitgamb/restaurant/assets/104263923/10ae051e-a052-48fb-b2d7-0238b152d1b6)
